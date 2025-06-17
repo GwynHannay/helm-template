@@ -7,10 +7,6 @@ kubeVersion: ">=1.22.0-0"
 maintainers:
   - name: bjw-s
     email: me@bjw-s.dev
-dependencies:
-  - name: common
-    repository: https://github.com/GwynHannay/helm-template
-    version: 2.6.0
 annotations:
   artifacthub.io/changes: |-
     - kind: changed
